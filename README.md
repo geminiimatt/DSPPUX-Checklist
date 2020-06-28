@@ -167,9 +167,9 @@ This checklist provides suggestions to promote digital security and privacy for 
 * * *
 
 For further information, inquiries, user research resource, or partnership opportunities, please contact:
- ##### Natalie Cadranel, natalie@open-archive.org
  ##### Anqi Li, anqi@accessnow.org
  ##### An Xiao Mina, an@meedan.comc. 
+
 
 [1] For more about user research methods, visit Nielsen Norman Group’s summary at  https://www.nngroup.com/articles/which-ux-research-methods
 
